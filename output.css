@@ -1,0 +1,67 @@
+/* html {
+  background: #ffc600;
+  font-family: 'helvetica neue';
+  font-size: 20px;
+  font-weight: 200;
+ }
+
+body {
+ margin: 0;
+}
+
+
+.inbox {
+  max-width:400px;
+  margin: 50px auto;
+  background-color: white;
+  border: 1px solid black;
+  border-bottom: 0;
+
+
+}
+
+.item{
+  display: flex;
+  align-items: center;
+  padding-left: 5%;
+  border-bottom: 1px solid black;
+
+
+}
+
+.text {
+  width: 90%;
+  display: flex;
+  margin-left: 5%;
+  padding-left: 8%;
+  border-left: 1px solid black;
+
+
+}
+
+.text >p {
+ margin-left: 10px;
+
+}
+
+
+p {
+   margin:0;
+   padding:20px;
+   transition:background 0.2s;
+   flex:1;
+   font-family:'helvetica neue';
+   font-size: 20px;
+   font-weight: 200;
+   border-left: 1px solid #D1E2FF;
+ }
+
+input[type="checkbox"] {
+      margin:20px;
+    }
+
+
+input:checked + p {
+     background:#F9F9F9;
+     text-decoration: line-through;
+   } */
